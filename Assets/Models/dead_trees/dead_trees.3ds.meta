@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 83276452b18693f439dc090e681d3db6
+timeCreated: 1490898061
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Plum_Tre
+    100004: Walnut__
+    100006: Winter0
+    100008: Winter0_MeshPart0
+    100010: Winter0_MeshPart1
+    100012: Winter1
+    100014: Winter10
+    100016: Winter11
+    100018: Winter12
+    100020: Winter12_MeshPart0
+    100022: Winter12_MeshPart1
+    100024: Winter13
+    100026: Winter14
+    100028: Winter1_MeshPart0
+    100030: Winter1_MeshPart1
+    100032: Winter2
+    100034: Winter2_MeshPart0
+    100036: Winter2_MeshPart1
+    100038: Winter3
+    100040: Winter3_MeshPart0
+    100042: Winter3_MeshPart1
+    100044: Winter4
+    100046: Winter4_MeshPart0
+    100048: Winter4_MeshPart1
+    100050: Winter5
+    100052: Winter6
+    100054: Winter7
+    100056: Winter8
+    100058: Winter8_MeshPart0
+    100060: Winter8_MeshPart1
+    100062: Winter9
+    400000: //RootNode
+    400002: Plum_Tre
+    400004: Walnut__
+    400006: Winter0
+    400008: Winter0_MeshPart0
+    400010: Winter0_MeshPart1
+    400012: Winter1
+    400014: Winter10
+    400016: Winter11
+    400018: Winter12
+    400020: Winter12_MeshPart0
+    400022: Winter12_MeshPart1
+    400024: Winter13
+    400026: Winter14
+    400028: Winter1_MeshPart0
+    400030: Winter1_MeshPart1
+    400032: Winter2
+    400034: Winter2_MeshPart0
+    400036: Winter2_MeshPart1
+    400038: Winter3
+    400040: Winter3_MeshPart0
+    400042: Winter3_MeshPart1
+    400044: Winter4
+    400046: Winter4_MeshPart0
+    400048: Winter4_MeshPart1
+    400050: Winter5
+    400052: Winter6
+    400054: Winter7
+    400056: Winter8
+    400058: Winter8_MeshPart0
+    400060: Winter8_MeshPart1
+    400062: Winter9
+    2300000: Plum_Tre
+    2300002: Walnut__
+    2300004: Winter0_MeshPart0
+    2300006: Winter0_MeshPart1
+    2300008: Winter10
+    2300010: Winter11
+    2300012: Winter12_MeshPart0
+    2300014: Winter12_MeshPart1
+    2300016: Winter13
+    2300018: Winter14
+    2300020: Winter1_MeshPart0
+    2300022: Winter1_MeshPart1
+    2300024: Winter2_MeshPart0
+    2300026: Winter2_MeshPart1
+    2300028: Winter3_MeshPart0
+    2300030: Winter3_MeshPart1
+    2300032: Winter4_MeshPart0
+    2300034: Winter4_MeshPart1
+    2300036: Winter5
+    2300038: Winter6
+    2300040: Winter7
+    2300042: Winter8_MeshPart0
+    2300044: Winter8_MeshPart1
+    2300046: Winter9
+    3300000: Plum_Tre
+    3300002: Walnut__
+    3300004: Winter0_MeshPart0
+    3300006: Winter0_MeshPart1
+    3300008: Winter10
+    3300010: Winter11
+    3300012: Winter12_MeshPart0
+    3300014: Winter12_MeshPart1
+    3300016: Winter13
+    3300018: Winter14
+    3300020: Winter1_MeshPart0
+    3300022: Winter1_MeshPart1
+    3300024: Winter2_MeshPart0
+    3300026: Winter2_MeshPart1
+    3300028: Winter3_MeshPart0
+    3300030: Winter3_MeshPart1
+    3300032: Winter4_MeshPart0
+    3300034: Winter4_MeshPart1
+    3300036: Winter5
+    3300038: Winter6
+    3300040: Winter7
+    3300042: Winter8_MeshPart0
+    3300044: Winter8_MeshPart1
+    3300046: Winter9
+    4300000: Winter0_MeshPart0
+    4300002: Winter0_MeshPart1
+    4300004: Winter1_MeshPart0
+    4300006: Winter1_MeshPart1
+    4300008: Winter2_MeshPart0
+    4300010: Winter2_MeshPart1
+    4300012: Winter3_MeshPart0
+    4300014: Winter3_MeshPart1
+    4300016: Winter4_MeshPart0
+    4300018: Winter4_MeshPart1
+    4300020: Winter5
+    4300022: Winter6
+    4300024: Winter7
+    4300026: Winter8_MeshPart0
+    4300028: Winter8_MeshPart1
+    4300030: Winter9
+    4300032: Walnut__
+    4300034: Plum_Tre
+    4300036: Winter10
+    4300038: Winter11
+    4300040: Winter12_MeshPart0
+    4300042: Winter12_MeshPart1
+    4300044: Winter13
+    4300046: Winter14
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
